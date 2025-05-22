@@ -4,3 +4,5 @@
 ###### It's the smallest size
 
 I tried out some new stuff here creating headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
