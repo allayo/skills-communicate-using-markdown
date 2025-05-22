@@ -1,0 +1,6 @@
+# This is a new file
+## Wow this looks really nice
+### Omg it's smaller
+###### It's the smallest size
+
+I tried out some new stuff here creating headers
